@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_90">#E6FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_70">#B3000000</color>
+    <color name="black_80">#CC000000</color>
+    <color name="black_90">#E6000000</color>
+
+    <color name="medium_jungle_green">#2B2B2B</color>
+    <color name="darkJungleGreen">#191919</color>
+    <color name="taupe">#333333</color>
+    <color name="davyGrey">#525255</color>
+    <color name="manatee">#9B9B9B</color>
+    <color name="Gainsboro">#d3ddea</color>
+    <color name="trolleyGrey">#7C7D7D</color>
+    <color name="taupeGray">#8C8C8C</color>
+    <color name="lavenderGray">#C8C8C8</color>
+    <color name="timberwolf">#D8D8D8</color>
+    <color name="snow">#FAFAFA</color>
+    <color name="whiteSmoke">#f4f5f7</color>
+    <color name="ghostwhite">#F8F9FA</color>
+    <color name="munsell">#F1F0F6</color>
+    <color name="munsell_50">#80EFEFF4</color>
+    <color name="darkgray">#AAAAAA</color>
+    <color name="liver">#514f4f</color>
+
+    <color name="slateGray">#69758C</color>
+    <color name="steelBlue">#4682B4</color>
+    <color name="lightSkyBlue">#87CEFA</color>
+    <color name="darkKhaki">#BDB76B</color>
+    <color name="cadmiunOrange">#F38F2F</color>
+    <color name="indiaRed">#CD5C5C</color>
+    <color name="mauvelous">#F095A7</color>
+
+    <color name="shamrock">#37C8A5</color>
+    <color name="shamrock_30">#4D37C8A5</color>
+    <color name="darkMidnightBlue">#143264</color>
+    <color name="ceruleanBlue">#2861C2</color>
+    <color name="sandstorm">#F7D24A</color>
+    <color name="sinopia">#D23719</color>
+    <color name="azure">#007AFF</color>
+    <color name="bluegray">#59A4CB</color>
+    <color name="dodgerBlue">#3287ff</color>
+    <color name="blueDeFrance">#4687F9</color>
+    <color name="Denim">#2a6cc7</color>
+    <color name="coralRed">#FF3B30</color>
+    <color name="RossoCorsaRed">#E00000</color>
+
+    <color name="whiteSmoke_82">#D1F8F8F8</color>
+    <color name="rifleGreen">#636363</color>
+    <color name="grey" type="color">#555555</color>
+    <color name="green" type="color">#4499CC00</color>
+    <color name="darkgreen" type="color">#FF669900</color>
+    <color name="customColor">#50000000</color>
+    <color name="light_blue">#CEF0FE</color>
+    <color name="dark_sky_blue">#22a8e6</color>
+    <color name="dark_sky_blue_transparent">#8822a8e6</color>
+    <color name="battleship_grey">#6c7580</color>
+    <color name="dark">#1f2733</color>
+    <color name="lightblue">#73cff2</color>
+    <color name="aquamarine">#00e6ac</color>
+    <color name="pale_grey">#e6e9ed</color>
+    <color name="ice_blue">#f4fbff</color>
+    <color name="cloudy_blue">#c8d0dc</color>
+    <color name="greyish_brown">#4a4a4a</color>
+    <color name="greyish_brown_two">#4d4d4d</color>
+    <color name="silver">#c2c6cc</color>
+    <color name="steel">#738399</color>
+    <color name="dark_two">#1f2733</color>
+    <color name="enable_gray">#b4b9bf</color>
+    <color name="charcoal_grey">#32444d</color>
+    <color name="charcoal_grey_two">#40464c</color>
+    <color name="pale_grey_two">#ebeef2</color>
+    <color name="lay_line">#80ffffff</color>
+    <color name="battleship_grey_two">#6c7480</color>
+    <color name="cool_grey">#b4b9bf</color>
+    <color name="light_grey">#f7f8f8</color>
+    <color name="dim_grey">#656363</color>
+    <color name="pastel_gray">#CCCCCC</color>
+    <color name="jungleGreen">#1dab89</color>
+    <color name="red">#FF0000</color>
+    <color name="red25">#26FF0000</color>
+    <color name="tangerine">#EB8A03</color>
+    <color name="verdigris">#39c0a8</color>
+    <color name="mountainMeadow">#32b797</color>
+    <color name="platinum">#e6e6e6</color>
+    <color name="hanblue">#3173CC</color>
+    <color name="lightseagreen">#32B0A3</color>
+    <color name="ultramarine_blue">#2458F2</color>
+    <color name="frenchblue">#056EB9</color>
+
+
+
+    <color name="Azure">#007aff</color>
+    <color name="Princeton_Orange">#ff9500</color>
+    <color name="India_Green">#12a315</color>
+    <color name="Medium_Orchid">#b14eed</color>
+    <color name="Maya_Blue">#5ac8fa</color>
+    <color name="UFO_Green">#4cd964</color>
+    <color name="Radical_Red">#ff3360</color>
+
+    <color name="Steel_blue">#527fb0</color>
+    <color name="Moss_green">#b8d2ac</color>
+    <color name="Cadet_blue">#6faea8</color>
+    <color name="French_lilac">#78648d</color>
+    <color name="Blush">#cf6784</color>
+    <color name="Dark_salmon">#e59085</color>
+    <color name="Flax">#ecd283</color>
+
+    <array name="chart_color_v2">
+        <item>@color/Steel_blue</item>
+        <item>@color/Moss_green</item>
+        <item>@color/Cadet_blue</item>
+        <item>@color/French_lilac</item>
+        <item>@color/Blush</item>
+        <item>@color/Dark_salmon</item>
+        <item>@color/Flax</item>
+    </array>
+
+    <color name="chart_color_1">#02A0E3</color>
+    <color name="chart_color_2">#16315F</color>
+    <color name="chart_color_3">#72DFDB</color>
+    <color name="chart_color_4">#02A79E</color>
+    <color name="chart_color_5">#E6CD75</color>
+    <color name="chart_color_6">#DC6C38</color>
+    <array name="chart_color">
+        <item>@color/chart_color_1</item>
+        <item>@color/chart_color_2</item>
+        <item>@color/chart_color_3</item>
+        <item>@color/chart_color_4</item>
+        <item>@color/chart_color_5</item>
+        <item>@color/chart_color_6</item>
+    </array>
+
+    <string-array name="line_chart_color">
+        <item>#5EC566</item>
+        <item>#FF4938</item>
+        <item>#5FCECA</item>
+        <item>#F6CB55</item>
+        <item>#CE6E4B</item>
+        <item>#679DDA</item>
+    </string-array>
+
+    <string-array name="bar_chart_color">
+        <item>#CE6E4B</item>
+        <item>#679DDA</item>
+        <item>#5FCECA</item>
+        <item>#F6CB55</item>
+        <item>#5EC566</item>
+        <item>#FF4938</item>
+        <item>#C9B8A6</item>
+        <item>#656766</item>
+    </string-array>
+
+    <array name="customer360_color">
+        <item>#69748C</item>
+        <item>#87CEFA</item>
+        <item>#4581B4</item>
+        <item>#BDB76A</item>
+        <item>#F7D24A</item>
+        <item>#F38F2F</item>
+        <item>#F095A7</item>
+        <item>#CD5B5C</item>
+    </array>
+
+    <color name="paint_black">#000000</color>
+    <color name="paint_blue">#056EB9</color>
+    <color name="paint_red">#AA5A5A</color>
+    <color name="paint_green">#46A514</color>
+    <color name="paint_yellow">#D2AA19</color>
+    <color name="paint_white">#ffffff</color>
+    <color name="trolleyGray">#ff7D7D7D</color>
+
+    <color name="permission_green">#008000</color>
+    <color name="permission_red">#FF0000</color>
+    <color name="permission_yellow">#E89802</color>
+</resources>
